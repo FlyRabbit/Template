@@ -1,5 +1,5 @@
 # Template
-Template for c++
+Template of c++
 
 ## md5 ##
-md5 template for c/c++
+md5 template of c/c++
